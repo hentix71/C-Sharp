@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetVS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d02d9423d1dc95b6b3e949b96dc34cd2e3ce1587")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetVS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetVS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,2 +1,3 @@
-# C-
 Learning C#
+
+Day 1:

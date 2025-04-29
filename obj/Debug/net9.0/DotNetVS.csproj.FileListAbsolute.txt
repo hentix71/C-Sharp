@@ -12,3 +12,4 @@ C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\refint\DotNetVS.dll
 C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.pdb
 C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.genruntimeconfig.cache
 C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\ref\DotNetVS.dll
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.sourcelink.json
