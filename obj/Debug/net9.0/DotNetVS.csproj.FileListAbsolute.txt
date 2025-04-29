@@ -1,0 +1,14 @@
+C:\Users\nitro\Desktop\DotNetVS\bin\Debug\net9.0\DotNetVS.exe
+C:\Users\nitro\Desktop\DotNetVS\bin\Debug\net9.0\DotNetVS.deps.json
+C:\Users\nitro\Desktop\DotNetVS\bin\Debug\net9.0\DotNetVS.runtimeconfig.json
+C:\Users\nitro\Desktop\DotNetVS\bin\Debug\net9.0\DotNetVS.dll
+C:\Users\nitro\Desktop\DotNetVS\bin\Debug\net9.0\DotNetVS.pdb
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.AssemblyInfoInputs.cache
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.AssemblyInfo.cs
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.csproj.CoreCompileInputs.cache
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.dll
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\refint\DotNetVS.dll
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.pdb
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\DotNetVS.genruntimeconfig.cache
+C:\Users\nitro\Desktop\DotNetVS\obj\Debug\net9.0\ref\DotNetVS.dll
